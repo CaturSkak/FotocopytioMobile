@@ -1,4 +1,4 @@
-package com.example.fotocopytiomobile;
+package com.fotocopy.fotocopytio;
 
 import org.junit.Test;
 
